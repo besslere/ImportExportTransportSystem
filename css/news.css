@@ -1,0 +1,91 @@
+.cot{
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.cot img{
+    height: 188px;
+}
+.newCenter{
+    margin-top: 30px;
+}
+.newCenter .newRt{
+    width: 100%;
+}
+.newCenter .newLf .newTit{
+    text-align: center;
+    color: #fff;
+    font-size: 22px;
+    padding: 15px 0;
+    background: #005197;
+}
+.newCenter .newLf .newList ul{
+    margin-bottom: 20px;
+    padding-left: 0;
+}
+.newCenter .newLf .newList ul li{
+    text-align: center;
+    background: #f6f6f6;
+    font-size: 16px;
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+}
+.newCenter .newLf .newList ul li:hover{
+    color: #f18200;
+    background: #fff;
+}
+.newCenter .newRt .newMain{
+    padding: 15px 0;
+    font-size: 18px;
+    border-bottom: 1px #005197 solid;
+    color: #005197;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.newCenter .newRt .newSm{
+    margin-top: 15px;
+}
+.newCenter .newRt .newSm a{
+    color: #666;
+    font-size: 16px;
+}
+.newCenter .newRt .newSm a:hover{
+    color: #f00;
+}
+.newCenter .newRt .newSm a span{
+    float: left;
+}
+.newCenter .newRt .newSm span{
+    float: right;
+}
+.newCenter .newRt .newSm p{
+    margin-top: 5px;
+    font-size: 13px;
+    /*white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;*/
+    line-height: 30px;
+    text-indent: 2em;
+    text-align: justify;
+    border-bottom: 1px dashed;
+}
+.newCenter .newRt .newCots{
+    margin-top: 40px;
+    text-align: center;
+    color: #000;
+}
+.newCenter .newRt .newCots .newCotInfo{
+    text-align: left;
+    text-justify: inter-word;
+    line-height: 30px;
+    font-size: 14px;
+    text-indent: 28px;
+    margin: 50px auto 100px;
+}
+.newCenter .newRt .newCots p.newFb{
+    text-align: center;
+}
